@@ -19,9 +19,6 @@ function johnLennonFacts (facts) {
   return facts;
 }
 
-
-
-
 function iLoveTheBeatles (num) {
   let arr = [];
     do{
