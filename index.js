@@ -8,9 +8,7 @@ function theBeatlesPlay (musicians, instruments) {
   return buildString;
 }
 
-
-
-function johnLennonFacts (facts) {
+function johnLennonFacts(facts) {
   let i = 0;
   while (i < 4) {
     facts[i] = facts[i] + "!!!";
@@ -18,7 +16,7 @@ function johnLennonFacts (facts) {
   }
   return facts;
 }
-
+  
 function iLoveTheBeatles (num) {
   let arr = [];
     do{
